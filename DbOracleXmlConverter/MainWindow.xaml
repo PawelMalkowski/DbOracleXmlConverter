@@ -14,7 +14,6 @@
         <PasswordBox x:Name="Passowrd" Password="S95479" HorizontalAlignment="Left" Margin="572,161,0,0" VerticalAlignment="Top" Width="120"/>
         <Label Content="Login"  HorizontalAlignment="Left" Margin="100,157,0,0" VerticalAlignment="Top"/>
         <Label Content="Password"  HorizontalAlignment="Left" Margin="480,157,0,0" VerticalAlignment="Top"/>
-        <Label Content="Label" HorizontalAlignment="Left" Margin="880,28,0,0" VerticalAlignment="Top"/>
         <Label x:Name="Comunicate" Content="" HorizontalAlignment="Center" Margin="0,217,0,0" VerticalAlignment="Top"/>
 
     </Grid>
